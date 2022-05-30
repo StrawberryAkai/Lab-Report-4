@@ -90,7 +90,7 @@ line, `github.com` just missing a close parenthesis, and also the same as
 * Unfortunately, my implementation did not output the correct link due
 to the fact I haven't though of this kind of edges exmaple that far, so there
 is no checking for spliting.
-![Image](Myoutput3.png)
+![Image](myoutput3.png)
 
 ## The Implementation That I Reviewed for Snippet 3
 
